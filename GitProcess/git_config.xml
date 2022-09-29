@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Configuration>
 
-<!-- title name を設定（この名前を引用してINDEXファイルを作成します） -->
+<!-- title name 設定 (この名前を引用してINDEXファイル作成) -->
 <titlename>TEST</titlename>
 
-<!-- source filesがおいてある経路 -->
+<!-- source files 配置経路 -->
 <source_path>E:\server_root\games\test</source_path>
 
-<!-- git local repository 経路（<.git>フォルダーが生成された経路） -->
+<!-- git local repository 配置経路（<.git>フォルダーが生成された経路） -->
 <git_path>E:\server_root\games\test\git_ibt2</git_path>
 
-<!-- generate-index.exeとgenerate-diff.exeがおいてあるの経路 -->
+<!-- generate-index.exeとgenerate-diff.exe 配置経路 -->
 <generate_path>E:\packing\util</generate_path>
 
-<!-- version iniファイルの経路 -->
+<!-- version ini 配置経路 (lanucher reference file) -->
 <versionini_file>E:\server_root\games\test\config\ibt2\version.ini</versionini_file>
 
 </Configuration>
