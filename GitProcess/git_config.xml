@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+
+<!-- title name を設定（この名前を引用してINDEXファイルを作成します） -->
+<titlename>TEST</titlename>
+
+<!-- source filesがおいてある経路 -->
+<source_path>E:\server_root\games\test</source_path>
+
+<!-- git local repository 経路（<.git>フォルダーが生成された経路） -->
+<git_path>E:\server_root\games\test\git_ibt2</git_path>
+
+<!-- generate-index.exeとgenerate-diff.exeがおいてあるの経路 -->
+<generate_path>E:\packing\util</generate_path>
+
+<!-- version iniファイルの経路 -->
+<versionini_file>E:\server_root\games\test\config\ibt2\version.ini</versionini_file>
+
+</Configuration>
+
